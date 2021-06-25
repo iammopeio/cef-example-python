@@ -1,3 +1,5 @@
+# Mope.io™ Copyright (2017-present) Mopeio Ltd.
+
 from cefpython3 import cefpython as cef
 import platform
 import sys
